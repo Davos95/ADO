@@ -1,0 +1,9 @@
+C:\Users\AlumnoMCSD\source\repos\ProyectoADO\ClasesSQL\bin\Debug\ClasesSQL.exe.config
+C:\Users\AlumnoMCSD\source\repos\ProyectoADO\ClasesSQL\bin\Debug\ClasesSQL.exe
+C:\Users\AlumnoMCSD\source\repos\ProyectoADO\ClasesSQL\bin\Debug\ClasesSQL.pdb
+C:\Users\AlumnoMCSD\source\repos\ProyectoADO\ClasesSQL\obj\Debug\ClasesSQL.csprojAssemblyReference.cache
+C:\Users\AlumnoMCSD\source\repos\ProyectoADO\ClasesSQL\obj\Debug\ClasesSQL.Properties.Resources.resources
+C:\Users\AlumnoMCSD\source\repos\ProyectoADO\ClasesSQL\obj\Debug\ClasesSQL.csproj.GenerateResource.cache
+C:\Users\AlumnoMCSD\source\repos\ProyectoADO\ClasesSQL\obj\Debug\ClasesSQL.csproj.CoreCompileInputs.cache
+C:\Users\AlumnoMCSD\source\repos\ProyectoADO\ClasesSQL\obj\Debug\ClasesSQL.exe
+C:\Users\AlumnoMCSD\source\repos\ProyectoADO\ClasesSQL\obj\Debug\ClasesSQL.pdb
